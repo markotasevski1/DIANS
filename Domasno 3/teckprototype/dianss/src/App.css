@@ -1,0 +1,22 @@
+.Header
+{
+  display:flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 150px;
+  background-color: #CEB0B0;
+}
+.sredina{
+  background-color: #836060;
+  height:800px;
+}
+.selekcija{
+  font-size:40px;
+  color: black;
+ margin-left:200px;
+  
+}
+.selektdel{
+  font-size:30px;
+  
+}
